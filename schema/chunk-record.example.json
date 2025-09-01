@@ -1,0 +1,15 @@
+{
+  "id": "visao-geral-savvix#diferenciais",
+  "slug": "visao-geral-savvix",
+  "title": "Diferenciais",
+  "content": "Exemplo de chunk (800–1200 caracteres). Conteúdo real virá do parser de markdown.",
+  "category": "Sobre o SAVVIX",
+  "tags": [
+    "app",
+    "personalização",
+    "relatórios"
+  ],
+  "language": "pt-BR",
+  "source": "kb/01-visao-geral-savvix.md",
+  "last_reviewed_at": "2025-08-31"
+}

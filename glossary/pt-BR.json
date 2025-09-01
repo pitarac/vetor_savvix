@@ -1,0 +1,30 @@
+[
+  {
+    "term": "Resgate",
+    "definition": "Ação de validar/usar um cupom no estabelecimento, seguindo regras e prazo."
+  },
+  {
+    "term": "Push segmentado",
+    "definition": "Notificações enviadas a grupos definidos por localização e preferências."
+  },
+  {
+    "term": "Taxa de resgate",
+    "definition": "% de cupons usados em relação aos disponibilizados."
+  },
+  {
+    "term": "Ticket médio",
+    "definition": "Valor médio gasto por cliente em uma compra."
+  },
+  {
+    "term": "Parceiro",
+    "definition": "Estabelecimento/lojista que cria campanhas no painel."
+  },
+  {
+    "term": "Usuário Premium",
+    "definition": "Consumidor assinante com acesso a cupons exclusivos e vantagens."
+  },
+  {
+    "term": "Painel Administrativo",
+    "definition": "Interface web para criação de campanhas e visualização de métricas."
+  }
+]

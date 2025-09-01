@@ -1,0 +1,75 @@
+[
+  {
+    "q": "O que é o SAVVIX?",
+    "a": "Um app de cupons digitais que conecta usuários a estabelecimentos com ofertas personalizadas por localização e preferências.",
+    "category": "Geral",
+    "related_slugs": [
+      "visao-geral-savvix"
+    ]
+  },
+  {
+    "q": "Onde será o lançamento?",
+    "a": "O piloto acontece no Distrito Federal (DF).",
+    "category": "Geral",
+    "related_slugs": [
+      "go-to-market"
+    ]
+  },
+  {
+    "q": "Qual a diferença do plano Premium?",
+    "a": "Acesso a cupons exclusivos e benefícios adicionais no app.",
+    "category": "Planos",
+    "related_slugs": [
+      "b2c-usuarios-app",
+      "planos-e-precos"
+    ]
+  },
+  {
+    "q": "Sou lojista, como começo?",
+    "a": "Acesse o Painel Administrativo, faça seu cadastro e crie sua primeira campanha.",
+    "category": "Parceiros",
+    "related_slugs": [
+      "b2b-parceiros-comercial"
+    ]
+  },
+  {
+    "q": "Quais métricas o painel mostra?",
+    "a": "Taxa de resgate, ticket médio, horários de pico e recorrência.",
+    "category": "Parceiros",
+    "related_slugs": [
+      "b2b-parceiros-comercial"
+    ]
+  },
+  {
+    "q": "Como funcionam as notificações?",
+    "a": "Enviamos push segmentado considerando localização e preferências do usuário.",
+    "category": "App",
+    "related_slugs": [
+      "b2c-usuarios-app"
+    ]
+  },
+  {
+    "q": "A plataforma para parceiros é paga?",
+    "a": "A plataforma é gratuita com taxa única de cadastro de R$ 99 e opções de impulsionamento.",
+    "category": "Parceiros",
+    "related_slugs": [
+      "planos-e-precos"
+    ]
+  },
+  {
+    "q": "Quais dados o app coleta?",
+    "a": "Somente o necessário para personalização e segurança. Consulte a seção de Privacidade.",
+    "category": "Legal",
+    "related_slugs": [
+      "politicas-privacidade-seguranca"
+    ]
+  },
+  {
+    "q": "Como validar um cupom?",
+    "a": "Pelo app, seguindo as regras e dentro da validade do cupom.",
+    "category": "App",
+    "related_slugs": [
+      "b2c-usuarios-app"
+    ]
+  }
+]
